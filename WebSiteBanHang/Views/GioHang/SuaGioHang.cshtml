@@ -1,0 +1,64 @@
+﻿@using WebSiteBanHang.Models
+@model ItemGioHang
+
+@{
+    ViewBag.Title = "SuaGioHang";
+    Layout = "~/Views/Layout/ProductLayout.cshtml";
+}
+
+@{
+    List<ItemGioHang> lstGioHang = ViewBag.GioHang as List<ItemGioHang>;
+}
+
+<table class="table">
+    <tr>
+        <td>Mã SP</td>
+        <td>Tên SP</td>
+        <td>Hình ảnh</td>
+        <td>Số lượng</td>
+        <td>Đơn giá</td>
+        <td>Thành tiền</td>
+        <td></td>
+    </tr>
+    
+    @foreach (var item in lstGioHang)
+    {
+        using (Html.BeginForm("CapNhatGioHang", "GioHang"))
+        {
+            <tr>
+                <td>@item.MaSP @Html.Hidden("MaSP", item.MaSP)</td>
+                <td>@item.TenSP</td>
+                <td><img src="@Url.Content("~/Content/HinhAnhSP/" + item.HinhAnh)" width="50" height="50" /></td>
+                <td>
+                    <input type="text" name="SoLuong" value="@item.SoLuong" class="SoLuongThayDoi" />
+                </td>
+                <td>@item.DonGia.ToString("#,##") đồng</td>
+                <td>@item.ThanhTien.ToString("#,##") đồng</td>
+                <td>
+                    <input type="submit" value="Cập nhật" class="btnCapNhatGH" />
+                    @Html.ActionLink("Xóa", "XoaGioHang", new { @MaSP = item.MaSP })
+                </td>
+            </tr>
+        }
+    }
+</table>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://code.jquery.com/ui/1.13.0/jquery-ui.min.js"></script>
+<script>
+    $(document).ready(function () {
+        $(".SoLuongThayDoi").spinner({
+            min: 0,
+            numberFormat: "n",
+            step: 1
+        });
+
+        $(".btnCapNhatGH").click(function (e) {
+            var SoLuong = $(this).closest('form').find('.SoLuongThayDoi').val();
+            if (isNaN(SoLuong) == true || SoLuong < 0) {
+                alert("Số lượng không hợp lệ!");
+                e.preventDefault(); // Ngăn chặn form submit nếu số lượng không hợp lệ
+            }
+        });
+    });
+</script>

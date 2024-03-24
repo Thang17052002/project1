@@ -1,0 +1,882 @@
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\WebSiteBanHang.dll.config
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\WebSiteBanHang.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\WebSiteBanHang.pdb
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Antlr3.Runtime.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\EntityFramework.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\EntityFramework.SqlServer.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Newtonsoft.Json.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Owin.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Helpers.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Mvc.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Optimization.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Razor.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.Deployment.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.Razor.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\WebGrease.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Helpers.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Mvc.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Optimization.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Razor.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.Deployment.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.Razor.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Newtonsoft.Json.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Antlr3.Runtime.pdb
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\EntityFramework.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\EntityFramework.SqlServer.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.pdb
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.csprojResolveAssemblyReference.cache
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\CaptchaMvc.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\CaptchaMvc.pdb
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\CaptchaMvc.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\PagedList.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\PagedList.Mvc.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\PagedList.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\PagedList.Mvc.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\WebSiteBanHang.dll.config
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\WebSiteBanHang.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\WebSiteBanHang.pdb
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\Antlr3.Runtime.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\CaptchaMvc.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\EntityFramework.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\EntityFramework.SqlServer.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\Microsoft.Owin.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\Microsoft.Owin.Security.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\Newtonsoft.Json.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\Owin.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\PagedList.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\PagedList.Mvc.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\System.Web.Helpers.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\System.Web.Mvc.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\System.Web.Optimization.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\System.Web.Razor.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\System.Web.WebPages.Deployment.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\System.Web.WebPages.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\System.Web.WebPages.Razor.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\WebGrease.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\CaptchaMvc.pdb
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\CaptchaMvc.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\PagedList.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\PagedList.Mvc.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\System.Web.Helpers.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\System.Web.Mvc.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\System.Web.Optimization.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\System.Web.Razor.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\System.Web.WebPages.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\System.Web.WebPages.Deployment.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\System.Web.WebPages.Razor.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\Newtonsoft.Json.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\Antlr3.Runtime.pdb
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\EntityFramework.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\EntityFramework.SqlServer.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\Microsoft.Owin.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\Microsoft.Owin.Security.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\obj\Debug\WebSiteBanHang.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\obj\Debug\WebSiteBanHang.pdb
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\obj\Debug\WebSiteBanHang.csprojResolveAssemblyReference.cache
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\WebSiteBanHang.dll.config
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\WebSiteBanHang.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\WebSiteBanHang.pdb
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Antlr3.Runtime.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\CaptchaMvc.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\EntityFramework.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\EntityFramework.SqlServer.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.Owin.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.Owin.Security.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Newtonsoft.Json.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Owin.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\PagedList.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\PagedList.Mvc.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\System.Web.Helpers.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\System.Web.Mvc.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\System.Web.Optimization.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\System.Web.Razor.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\System.Web.WebPages.Deployment.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\System.Web.WebPages.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\System.Web.WebPages.Razor.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\WebGrease.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\CaptchaMvc.pdb
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\CaptchaMvc.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\PagedList.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\PagedList.Mvc.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\System.Web.Helpers.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\System.Web.Mvc.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\System.Web.Optimization.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\System.Web.Razor.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\System.Web.WebPages.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\System.Web.WebPages.Deployment.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\System.Web.WebPages.Razor.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Newtonsoft.Json.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Antlr3.Runtime.pdb
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\EntityFramework.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\EntityFramework.SqlServer.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.Owin.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.Owin.Security.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\obj\Debug\WebSiteBanHang.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\obj\Debug\WebSiteBanHang.pdb
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\obj\Debug\WebSiteBanHang.csprojResolveAssemblyReference.cache
+D:\3.Study\Các Khóa Học\8.Khóa học ASP.NET&MVC\Khóa học MVC5\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\WebSiteBanHang.dll.config
+D:\3.Study\Các Khóa Học\8.Khóa học ASP.NET&MVC\Khóa học MVC5\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\WebSiteBanHang.dll
+D:\3.Study\Các Khóa Học\8.Khóa học ASP.NET&MVC\Khóa học MVC5\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\WebSiteBanHang.pdb
+D:\3.Study\Các Khóa Học\8.Khóa học ASP.NET&MVC\Khóa học MVC5\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Antlr3.Runtime.dll
+D:\3.Study\Các Khóa Học\8.Khóa học ASP.NET&MVC\Khóa học MVC5\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\CaptchaMvc.dll
+D:\3.Study\Các Khóa Học\8.Khóa học ASP.NET&MVC\Khóa học MVC5\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\EntityFramework.dll
+D:\3.Study\Các Khóa Học\8.Khóa học ASP.NET&MVC\Khóa học MVC5\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\EntityFramework.SqlServer.dll
+D:\3.Study\Các Khóa Học\8.Khóa học ASP.NET&MVC\Khóa học MVC5\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.AspNet.Identity.Core.dll
+D:\3.Study\Các Khóa Học\8.Khóa học ASP.NET&MVC\Khóa học MVC5\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\3.Study\Các Khóa Học\8.Khóa học ASP.NET&MVC\Khóa học MVC5\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\3.Study\Các Khóa Học\8.Khóa học ASP.NET&MVC\Khóa học MVC5\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.Owin.dll
+D:\3.Study\Các Khóa Học\8.Khóa học ASP.NET&MVC\Khóa học MVC5\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\3.Study\Các Khóa Học\8.Khóa học ASP.NET&MVC\Khóa học MVC5\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.Owin.Security.Cookies.dll
+D:\3.Study\Các Khóa Học\8.Khóa học ASP.NET&MVC\Khóa học MVC5\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.Owin.Security.dll
+D:\3.Study\Các Khóa Học\8.Khóa học ASP.NET&MVC\Khóa học MVC5\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.Owin.Security.Facebook.dll
+D:\3.Study\Các Khóa Học\8.Khóa học ASP.NET&MVC\Khóa học MVC5\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.Owin.Security.Google.dll
+D:\3.Study\Các Khóa Học\8.Khóa học ASP.NET&MVC\Khóa học MVC5\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\3.Study\Các Khóa Học\8.Khóa học ASP.NET&MVC\Khóa học MVC5\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.Owin.Security.OAuth.dll
+D:\3.Study\Các Khóa Học\8.Khóa học ASP.NET&MVC\Khóa học MVC5\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.Owin.Security.Twitter.dll
+D:\3.Study\Các Khóa Học\8.Khóa học ASP.NET&MVC\Khóa học MVC5\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.Web.Infrastructure.dll
+D:\3.Study\Các Khóa Học\8.Khóa học ASP.NET&MVC\Khóa học MVC5\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Newtonsoft.Json.dll
+D:\3.Study\Các Khóa Học\8.Khóa học ASP.NET&MVC\Khóa học MVC5\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Owin.dll
+D:\3.Study\Các Khóa Học\8.Khóa học ASP.NET&MVC\Khóa học MVC5\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\PagedList.dll
+D:\3.Study\Các Khóa Học\8.Khóa học ASP.NET&MVC\Khóa học MVC5\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\PagedList.Mvc.dll
+D:\3.Study\Các Khóa Học\8.Khóa học ASP.NET&MVC\Khóa học MVC5\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\System.Web.Helpers.dll
+D:\3.Study\Các Khóa Học\8.Khóa học ASP.NET&MVC\Khóa học MVC5\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\System.Web.Mvc.dll
+D:\3.Study\Các Khóa Học\8.Khóa học ASP.NET&MVC\Khóa học MVC5\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\System.Web.Optimization.dll
+D:\3.Study\Các Khóa Học\8.Khóa học ASP.NET&MVC\Khóa học MVC5\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\System.Web.Razor.dll
+D:\3.Study\Các Khóa Học\8.Khóa học ASP.NET&MVC\Khóa học MVC5\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\System.Web.WebPages.Deployment.dll
+D:\3.Study\Các Khóa Học\8.Khóa học ASP.NET&MVC\Khóa học MVC5\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\System.Web.WebPages.dll
+D:\3.Study\Các Khóa Học\8.Khóa học ASP.NET&MVC\Khóa học MVC5\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\System.Web.WebPages.Razor.dll
+D:\3.Study\Các Khóa Học\8.Khóa học ASP.NET&MVC\Khóa học MVC5\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\WebGrease.dll
+D:\3.Study\Các Khóa Học\8.Khóa học ASP.NET&MVC\Khóa học MVC5\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\CaptchaMvc.pdb
+D:\3.Study\Các Khóa Học\8.Khóa học ASP.NET&MVC\Khóa học MVC5\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\CaptchaMvc.xml
+D:\3.Study\Các Khóa Học\8.Khóa học ASP.NET&MVC\Khóa học MVC5\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\PagedList.xml
+D:\3.Study\Các Khóa Học\8.Khóa học ASP.NET&MVC\Khóa học MVC5\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\PagedList.Mvc.xml
+D:\3.Study\Các Khóa Học\8.Khóa học ASP.NET&MVC\Khóa học MVC5\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\System.Web.Helpers.xml
+D:\3.Study\Các Khóa Học\8.Khóa học ASP.NET&MVC\Khóa học MVC5\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\System.Web.Mvc.xml
+D:\3.Study\Các Khóa Học\8.Khóa học ASP.NET&MVC\Khóa học MVC5\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\System.Web.Optimization.xml
+D:\3.Study\Các Khóa Học\8.Khóa học ASP.NET&MVC\Khóa học MVC5\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\System.Web.Razor.xml
+D:\3.Study\Các Khóa Học\8.Khóa học ASP.NET&MVC\Khóa học MVC5\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\System.Web.WebPages.xml
+D:\3.Study\Các Khóa Học\8.Khóa học ASP.NET&MVC\Khóa học MVC5\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\System.Web.WebPages.Deployment.xml
+D:\3.Study\Các Khóa Học\8.Khóa học ASP.NET&MVC\Khóa học MVC5\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\System.Web.WebPages.Razor.xml
+D:\3.Study\Các Khóa Học\8.Khóa học ASP.NET&MVC\Khóa học MVC5\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Newtonsoft.Json.xml
+D:\3.Study\Các Khóa Học\8.Khóa học ASP.NET&MVC\Khóa học MVC5\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Antlr3.Runtime.pdb
+D:\3.Study\Các Khóa Học\8.Khóa học ASP.NET&MVC\Khóa học MVC5\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\EntityFramework.xml
+D:\3.Study\Các Khóa Học\8.Khóa học ASP.NET&MVC\Khóa học MVC5\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\EntityFramework.SqlServer.xml
+D:\3.Study\Các Khóa Học\8.Khóa học ASP.NET&MVC\Khóa học MVC5\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.AspNet.Identity.Core.xml
+D:\3.Study\Các Khóa Học\8.Khóa học ASP.NET&MVC\Khóa học MVC5\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\3.Study\Các Khóa Học\8.Khóa học ASP.NET&MVC\Khóa học MVC5\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\3.Study\Các Khóa Học\8.Khóa học ASP.NET&MVC\Khóa học MVC5\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.Owin.xml
+D:\3.Study\Các Khóa Học\8.Khóa học ASP.NET&MVC\Khóa học MVC5\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\3.Study\Các Khóa Học\8.Khóa học ASP.NET&MVC\Khóa học MVC5\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.Owin.Security.xml
+D:\3.Study\Các Khóa Học\8.Khóa học ASP.NET&MVC\Khóa học MVC5\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.Owin.Security.Facebook.xml
+D:\3.Study\Các Khóa Học\8.Khóa học ASP.NET&MVC\Khóa học MVC5\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.Owin.Security.Cookies.xml
+D:\3.Study\Các Khóa Học\8.Khóa học ASP.NET&MVC\Khóa học MVC5\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.Owin.Security.OAuth.xml
+D:\3.Study\Các Khóa Học\8.Khóa học ASP.NET&MVC\Khóa học MVC5\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.Owin.Security.Google.xml
+D:\3.Study\Các Khóa Học\8.Khóa học ASP.NET&MVC\Khóa học MVC5\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.Owin.Security.Twitter.xml
+D:\3.Study\Các Khóa Học\8.Khóa học ASP.NET&MVC\Khóa học MVC5\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\3.Study\Các Khóa Học\8.Khóa học ASP.NET&MVC\Khóa học MVC5\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\obj\Debug\WebSiteBanHang.csprojResolveAssemblyReference.cache
+D:\3.Study\Các Khóa Học\8.Khóa học ASP.NET&MVC\Khóa học MVC5\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\obj\Debug\WebSiteBanHang.dll
+D:\3.Study\Các Khóa Học\8.Khóa học ASP.NET&MVC\Khóa học MVC5\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\obj\Debug\WebSiteBanHang.pdb
+D:\3.Study\kỳ 6\WebSiteBanHang\WebSiteBanHang\bin\WebSiteBanHang.dll.config
+D:\3.Study\kỳ 6\WebSiteBanHang\WebSiteBanHang\bin\WebSiteBanHang.dll
+D:\3.Study\kỳ 6\WebSiteBanHang\WebSiteBanHang\bin\WebSiteBanHang.pdb
+D:\3.Study\kỳ 6\WebSiteBanHang\WebSiteBanHang\bin\Antlr3.Runtime.dll
+D:\3.Study\kỳ 6\WebSiteBanHang\WebSiteBanHang\bin\CaptchaMvc.dll
+D:\3.Study\kỳ 6\WebSiteBanHang\WebSiteBanHang\bin\EntityFramework.dll
+D:\3.Study\kỳ 6\WebSiteBanHang\WebSiteBanHang\bin\EntityFramework.SqlServer.dll
+D:\3.Study\kỳ 6\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AspNet.Identity.Core.dll
+D:\3.Study\kỳ 6\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\3.Study\kỳ 6\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\3.Study\kỳ 6\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.dll
+D:\3.Study\kỳ 6\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\3.Study\kỳ 6\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Cookies.dll
+D:\3.Study\kỳ 6\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.dll
+D:\3.Study\kỳ 6\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Facebook.dll
+D:\3.Study\kỳ 6\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Google.dll
+D:\3.Study\kỳ 6\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\3.Study\kỳ 6\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.OAuth.dll
+D:\3.Study\kỳ 6\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Twitter.dll
+D:\3.Study\kỳ 6\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Web.Infrastructure.dll
+D:\3.Study\kỳ 6\WebSiteBanHang\WebSiteBanHang\bin\Newtonsoft.Json.dll
+D:\3.Study\kỳ 6\WebSiteBanHang\WebSiteBanHang\bin\Owin.dll
+D:\3.Study\kỳ 6\WebSiteBanHang\WebSiteBanHang\bin\PagedList.dll
+D:\3.Study\kỳ 6\WebSiteBanHang\WebSiteBanHang\bin\PagedList.Mvc.dll
+D:\3.Study\kỳ 6\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Helpers.dll
+D:\3.Study\kỳ 6\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Mvc.dll
+D:\3.Study\kỳ 6\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Optimization.dll
+D:\3.Study\kỳ 6\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Razor.dll
+D:\3.Study\kỳ 6\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.Deployment.dll
+D:\3.Study\kỳ 6\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.dll
+D:\3.Study\kỳ 6\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.Razor.dll
+D:\3.Study\kỳ 6\WebSiteBanHang\WebSiteBanHang\bin\WebGrease.dll
+D:\3.Study\kỳ 6\WebSiteBanHang\WebSiteBanHang\bin\Antlr3.Runtime.pdb
+D:\3.Study\kỳ 6\WebSiteBanHang\WebSiteBanHang\bin\CaptchaMvc.pdb
+D:\3.Study\kỳ 6\WebSiteBanHang\WebSiteBanHang\bin\CaptchaMvc.xml
+D:\3.Study\kỳ 6\WebSiteBanHang\WebSiteBanHang\bin\EntityFramework.xml
+D:\3.Study\kỳ 6\WebSiteBanHang\WebSiteBanHang\bin\EntityFramework.SqlServer.xml
+D:\3.Study\kỳ 6\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AspNet.Identity.Core.xml
+D:\3.Study\kỳ 6\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\3.Study\kỳ 6\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\3.Study\kỳ 6\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.xml
+D:\3.Study\kỳ 6\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\3.Study\kỳ 6\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.xml
+D:\3.Study\kỳ 6\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Cookies.xml
+D:\3.Study\kỳ 6\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Facebook.xml
+D:\3.Study\kỳ 6\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Google.xml
+D:\3.Study\kỳ 6\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\3.Study\kỳ 6\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.OAuth.xml
+D:\3.Study\kỳ 6\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Twitter.xml
+D:\3.Study\kỳ 6\WebSiteBanHang\WebSiteBanHang\bin\Newtonsoft.Json.xml
+D:\3.Study\kỳ 6\WebSiteBanHang\WebSiteBanHang\bin\PagedList.xml
+D:\3.Study\kỳ 6\WebSiteBanHang\WebSiteBanHang\bin\PagedList.Mvc.xml
+D:\3.Study\kỳ 6\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Helpers.xml
+D:\3.Study\kỳ 6\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Mvc.xml
+D:\3.Study\kỳ 6\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Optimization.xml
+D:\3.Study\kỳ 6\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Razor.xml
+D:\3.Study\kỳ 6\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.xml
+D:\3.Study\kỳ 6\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.Deployment.xml
+D:\3.Study\kỳ 6\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.Razor.xml
+D:\3.Study\kỳ 6\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.csprojResolveAssemblyReference.cache
+D:\3.Study\kỳ 6\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.dll
+D:\3.Study\kỳ 6\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.pdb
+C:\Users\vuxua\OneDrive\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\WebSiteBanHang.dll.config
+C:\Users\vuxua\OneDrive\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\WebSiteBanHang.dll
+C:\Users\vuxua\OneDrive\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\WebSiteBanHang.pdb
+C:\Users\vuxua\OneDrive\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Antlr3.Runtime.dll
+C:\Users\vuxua\OneDrive\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\CaptchaMvc.dll
+C:\Users\vuxua\OneDrive\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\EntityFramework.dll
+C:\Users\vuxua\OneDrive\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\EntityFramework.SqlServer.dll
+C:\Users\vuxua\OneDrive\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\vuxua\OneDrive\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\vuxua\OneDrive\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\vuxua\OneDrive\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.dll
+C:\Users\vuxua\OneDrive\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\vuxua\OneDrive\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\vuxua\OneDrive\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.dll
+C:\Users\vuxua\OneDrive\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\vuxua\OneDrive\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\vuxua\OneDrive\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\vuxua\OneDrive\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\vuxua\OneDrive\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\vuxua\OneDrive\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\vuxua\OneDrive\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Newtonsoft.Json.dll
+C:\Users\vuxua\OneDrive\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Owin.dll
+C:\Users\vuxua\OneDrive\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\PagedList.dll
+C:\Users\vuxua\OneDrive\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\PagedList.Mvc.dll
+C:\Users\vuxua\OneDrive\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Helpers.dll
+C:\Users\vuxua\OneDrive\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Mvc.dll
+C:\Users\vuxua\OneDrive\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Optimization.dll
+C:\Users\vuxua\OneDrive\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Razor.dll
+C:\Users\vuxua\OneDrive\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.Deployment.dll
+C:\Users\vuxua\OneDrive\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.dll
+C:\Users\vuxua\OneDrive\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.Razor.dll
+C:\Users\vuxua\OneDrive\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\WebGrease.dll
+C:\Users\vuxua\OneDrive\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Antlr3.Runtime.pdb
+C:\Users\vuxua\OneDrive\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\CaptchaMvc.pdb
+C:\Users\vuxua\OneDrive\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\CaptchaMvc.xml
+C:\Users\vuxua\OneDrive\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\EntityFramework.xml
+C:\Users\vuxua\OneDrive\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\EntityFramework.SqlServer.xml
+C:\Users\vuxua\OneDrive\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\vuxua\OneDrive\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\vuxua\OneDrive\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\vuxua\OneDrive\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.xml
+C:\Users\vuxua\OneDrive\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\vuxua\OneDrive\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.xml
+C:\Users\vuxua\OneDrive\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\vuxua\OneDrive\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\vuxua\OneDrive\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\vuxua\OneDrive\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\vuxua\OneDrive\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\vuxua\OneDrive\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\vuxua\OneDrive\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Newtonsoft.Json.xml
+C:\Users\vuxua\OneDrive\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\PagedList.xml
+C:\Users\vuxua\OneDrive\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\PagedList.Mvc.xml
+C:\Users\vuxua\OneDrive\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Helpers.xml
+C:\Users\vuxua\OneDrive\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Mvc.xml
+C:\Users\vuxua\OneDrive\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Optimization.xml
+C:\Users\vuxua\OneDrive\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Razor.xml
+C:\Users\vuxua\OneDrive\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.xml
+C:\Users\vuxua\OneDrive\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.Deployment.xml
+C:\Users\vuxua\OneDrive\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.Razor.xml
+C:\Users\vuxua\OneDrive\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.dll
+C:\Users\vuxua\OneDrive\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.pdb
+D:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\WebSiteBanHang.dll.config
+D:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\WebSiteBanHang.dll
+D:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\WebSiteBanHang.pdb
+D:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Antlr3.Runtime.dll
+D:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\CaptchaMvc.dll
+D:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\EntityFramework.dll
+D:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\EntityFramework.SqlServer.dll
+D:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AspNet.Identity.Core.dll
+D:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.dll
+D:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Cookies.dll
+D:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.dll
+D:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Facebook.dll
+D:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Google.dll
+D:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.OAuth.dll
+D:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Twitter.dll
+D:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Web.Infrastructure.dll
+D:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Newtonsoft.Json.dll
+D:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Owin.dll
+D:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\PagedList.dll
+D:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\PagedList.Mvc.dll
+D:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Helpers.dll
+D:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Mvc.dll
+D:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Optimization.dll
+D:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Razor.dll
+D:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.Deployment.dll
+D:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.dll
+D:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.Razor.dll
+D:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\WebGrease.dll
+D:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Antlr3.Runtime.pdb
+D:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\CaptchaMvc.pdb
+D:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\CaptchaMvc.xml
+D:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\EntityFramework.xml
+D:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\EntityFramework.SqlServer.xml
+D:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AspNet.Identity.Core.xml
+D:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.xml
+D:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.xml
+D:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Cookies.xml
+D:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Facebook.xml
+D:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Google.xml
+D:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.OAuth.xml
+D:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Twitter.xml
+D:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Newtonsoft.Json.xml
+D:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\PagedList.xml
+D:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\PagedList.Mvc.xml
+D:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Helpers.xml
+D:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Mvc.xml
+D:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Optimization.xml
+D:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Razor.xml
+D:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.xml
+D:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.Deployment.xml
+D:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.Razor.xml
+D:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.dll
+D:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.pdb
+D:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.csproj.CoreCompileInputs.cache
+D:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.csproj.CopyComplete
+C:\Users\johny\Downloads\Compressed\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\WebSiteBanHang.dll.config
+C:\Users\johny\Downloads\Compressed\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\WebSiteBanHang.dll
+C:\Users\johny\Downloads\Compressed\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\WebSiteBanHang.pdb
+C:\Users\johny\Downloads\Compressed\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Antlr3.Runtime.dll
+C:\Users\johny\Downloads\Compressed\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\CaptchaMvc.dll
+C:\Users\johny\Downloads\Compressed\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\EntityFramework.dll
+C:\Users\johny\Downloads\Compressed\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\EntityFramework.SqlServer.dll
+C:\Users\johny\Downloads\Compressed\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\johny\Downloads\Compressed\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\johny\Downloads\Compressed\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\johny\Downloads\Compressed\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.dll
+C:\Users\johny\Downloads\Compressed\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\johny\Downloads\Compressed\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\johny\Downloads\Compressed\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.dll
+C:\Users\johny\Downloads\Compressed\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\johny\Downloads\Compressed\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\johny\Downloads\Compressed\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\johny\Downloads\Compressed\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\johny\Downloads\Compressed\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\johny\Downloads\Compressed\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\johny\Downloads\Compressed\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Newtonsoft.Json.dll
+C:\Users\johny\Downloads\Compressed\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Owin.dll
+C:\Users\johny\Downloads\Compressed\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\PagedList.dll
+C:\Users\johny\Downloads\Compressed\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\PagedList.Mvc.dll
+C:\Users\johny\Downloads\Compressed\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Helpers.dll
+C:\Users\johny\Downloads\Compressed\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Mvc.dll
+C:\Users\johny\Downloads\Compressed\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Optimization.dll
+C:\Users\johny\Downloads\Compressed\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Razor.dll
+C:\Users\johny\Downloads\Compressed\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.Deployment.dll
+C:\Users\johny\Downloads\Compressed\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.dll
+C:\Users\johny\Downloads\Compressed\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.Razor.dll
+C:\Users\johny\Downloads\Compressed\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\WebGrease.dll
+C:\Users\johny\Downloads\Compressed\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Antlr3.Runtime.pdb
+C:\Users\johny\Downloads\Compressed\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\CaptchaMvc.pdb
+C:\Users\johny\Downloads\Compressed\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\CaptchaMvc.xml
+C:\Users\johny\Downloads\Compressed\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\EntityFramework.xml
+C:\Users\johny\Downloads\Compressed\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\EntityFramework.SqlServer.xml
+C:\Users\johny\Downloads\Compressed\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\johny\Downloads\Compressed\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\johny\Downloads\Compressed\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\johny\Downloads\Compressed\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.xml
+C:\Users\johny\Downloads\Compressed\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\johny\Downloads\Compressed\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.xml
+C:\Users\johny\Downloads\Compressed\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\johny\Downloads\Compressed\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\johny\Downloads\Compressed\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\johny\Downloads\Compressed\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\johny\Downloads\Compressed\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\johny\Downloads\Compressed\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\johny\Downloads\Compressed\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Newtonsoft.Json.xml
+C:\Users\johny\Downloads\Compressed\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\PagedList.xml
+C:\Users\johny\Downloads\Compressed\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\PagedList.Mvc.xml
+C:\Users\johny\Downloads\Compressed\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Helpers.xml
+C:\Users\johny\Downloads\Compressed\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Mvc.xml
+C:\Users\johny\Downloads\Compressed\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Optimization.xml
+C:\Users\johny\Downloads\Compressed\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Razor.xml
+C:\Users\johny\Downloads\Compressed\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.xml
+C:\Users\johny\Downloads\Compressed\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.Deployment.xml
+C:\Users\johny\Downloads\Compressed\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.Razor.xml
+C:\Users\johny\Downloads\Compressed\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.csprojResolveAssemblyReference.cache
+C:\Users\johny\Downloads\Compressed\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.dll
+C:\Users\johny\Downloads\Compressed\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.pdb
+E:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\WebSiteBanHang.dll.config
+E:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\WebSiteBanHang.dll
+E:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\WebSiteBanHang.pdb
+E:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Antlr3.Runtime.dll
+E:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\CaptchaMvc.dll
+E:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\EntityFramework.dll
+E:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\EntityFramework.SqlServer.dll
+E:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AspNet.Identity.Core.dll
+E:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.dll
+E:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Cookies.dll
+E:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.dll
+E:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Facebook.dll
+E:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Google.dll
+E:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.OAuth.dll
+E:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Twitter.dll
+E:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Web.Infrastructure.dll
+E:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Newtonsoft.Json.dll
+E:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Owin.dll
+E:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\PagedList.dll
+E:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\PagedList.Mvc.dll
+E:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Helpers.dll
+E:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Mvc.dll
+E:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Optimization.dll
+E:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Razor.dll
+E:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.Deployment.dll
+E:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.dll
+E:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.Razor.dll
+E:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\WebGrease.dll
+E:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Antlr3.Runtime.pdb
+E:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\CaptchaMvc.pdb
+E:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\CaptchaMvc.xml
+E:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\EntityFramework.xml
+E:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\EntityFramework.SqlServer.xml
+E:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AspNet.Identity.Core.xml
+E:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.xml
+E:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.xml
+E:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Cookies.xml
+E:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Facebook.xml
+E:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Google.xml
+E:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.OAuth.xml
+E:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Twitter.xml
+E:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Newtonsoft.Json.xml
+E:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\PagedList.xml
+E:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\PagedList.Mvc.xml
+E:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Helpers.xml
+E:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Mvc.xml
+E:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Optimization.xml
+E:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Razor.xml
+E:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.xml
+E:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.Deployment.xml
+E:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.Razor.xml
+E:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.dll
+E:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.pdb
+E:\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.csprojResolveAssemblyReference.cache
+C:\Users\johny\OneDrive\Desktop\WebSiteBanHang\WebSiteBanHang\bin\WebSiteBanHang.dll.config
+C:\Users\johny\OneDrive\Desktop\WebSiteBanHang\WebSiteBanHang\bin\WebSiteBanHang.dll
+C:\Users\johny\OneDrive\Desktop\WebSiteBanHang\WebSiteBanHang\bin\WebSiteBanHang.pdb
+C:\Users\johny\OneDrive\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Antlr3.Runtime.dll
+C:\Users\johny\OneDrive\Desktop\WebSiteBanHang\WebSiteBanHang\bin\CaptchaMvc.dll
+C:\Users\johny\OneDrive\Desktop\WebSiteBanHang\WebSiteBanHang\bin\EntityFramework.dll
+C:\Users\johny\OneDrive\Desktop\WebSiteBanHang\WebSiteBanHang\bin\EntityFramework.SqlServer.dll
+C:\Users\johny\OneDrive\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\johny\OneDrive\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\johny\OneDrive\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\johny\OneDrive\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.dll
+C:\Users\johny\OneDrive\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\johny\OneDrive\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\johny\OneDrive\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.dll
+C:\Users\johny\OneDrive\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\johny\OneDrive\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\johny\OneDrive\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\johny\OneDrive\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\johny\OneDrive\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\johny\OneDrive\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\johny\OneDrive\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Newtonsoft.Json.dll
+C:\Users\johny\OneDrive\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Owin.dll
+C:\Users\johny\OneDrive\Desktop\WebSiteBanHang\WebSiteBanHang\bin\PagedList.dll
+C:\Users\johny\OneDrive\Desktop\WebSiteBanHang\WebSiteBanHang\bin\PagedList.Mvc.dll
+C:\Users\johny\OneDrive\Desktop\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Helpers.dll
+C:\Users\johny\OneDrive\Desktop\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Mvc.dll
+C:\Users\johny\OneDrive\Desktop\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Optimization.dll
+C:\Users\johny\OneDrive\Desktop\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Razor.dll
+C:\Users\johny\OneDrive\Desktop\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.Deployment.dll
+C:\Users\johny\OneDrive\Desktop\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.dll
+C:\Users\johny\OneDrive\Desktop\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.Razor.dll
+C:\Users\johny\OneDrive\Desktop\WebSiteBanHang\WebSiteBanHang\bin\WebGrease.dll
+C:\Users\johny\OneDrive\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Antlr3.Runtime.pdb
+C:\Users\johny\OneDrive\Desktop\WebSiteBanHang\WebSiteBanHang\bin\CaptchaMvc.pdb
+C:\Users\johny\OneDrive\Desktop\WebSiteBanHang\WebSiteBanHang\bin\CaptchaMvc.xml
+C:\Users\johny\OneDrive\Desktop\WebSiteBanHang\WebSiteBanHang\bin\EntityFramework.xml
+C:\Users\johny\OneDrive\Desktop\WebSiteBanHang\WebSiteBanHang\bin\EntityFramework.SqlServer.xml
+C:\Users\johny\OneDrive\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\johny\OneDrive\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\johny\OneDrive\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\johny\OneDrive\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.xml
+C:\Users\johny\OneDrive\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\johny\OneDrive\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.xml
+C:\Users\johny\OneDrive\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\johny\OneDrive\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\johny\OneDrive\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\johny\OneDrive\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\johny\OneDrive\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\johny\OneDrive\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\johny\OneDrive\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Newtonsoft.Json.xml
+C:\Users\johny\OneDrive\Desktop\WebSiteBanHang\WebSiteBanHang\bin\PagedList.xml
+C:\Users\johny\OneDrive\Desktop\WebSiteBanHang\WebSiteBanHang\bin\PagedList.Mvc.xml
+C:\Users\johny\OneDrive\Desktop\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Helpers.xml
+C:\Users\johny\OneDrive\Desktop\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Mvc.xml
+C:\Users\johny\OneDrive\Desktop\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Optimization.xml
+C:\Users\johny\OneDrive\Desktop\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Razor.xml
+C:\Users\johny\OneDrive\Desktop\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.xml
+C:\Users\johny\OneDrive\Desktop\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.Deployment.xml
+C:\Users\johny\OneDrive\Desktop\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.Razor.xml
+C:\Users\johny\OneDrive\Desktop\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.csprojResolveAssemblyReference.cache
+C:\Users\johny\OneDrive\Desktop\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.dll
+C:\Users\johny\OneDrive\Desktop\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.pdb
+C:\Users\johny\Downloads\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.csprojResolveAssemblyReference.cache
+C:\Users\johny\Downloads\WebSiteBanHang\WebSiteBanHang\bin\WebSiteBanHang.dll.config
+C:\Users\johny\Downloads\WebSiteBanHang\WebSiteBanHang\bin\WebSiteBanHang.dll
+C:\Users\johny\Downloads\WebSiteBanHang\WebSiteBanHang\bin\WebSiteBanHang.pdb
+C:\Users\johny\Downloads\WebSiteBanHang\WebSiteBanHang\bin\Antlr3.Runtime.dll
+C:\Users\johny\Downloads\WebSiteBanHang\WebSiteBanHang\bin\CaptchaMvc.dll
+C:\Users\johny\Downloads\WebSiteBanHang\WebSiteBanHang\bin\Common.dll
+C:\Users\johny\Downloads\WebSiteBanHang\WebSiteBanHang\bin\EntityFramework.dll
+C:\Users\johny\Downloads\WebSiteBanHang\WebSiteBanHang\bin\EntityFramework.SqlServer.dll
+C:\Users\johny\Downloads\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\johny\Downloads\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\johny\Downloads\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\johny\Downloads\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.dll
+C:\Users\johny\Downloads\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\johny\Downloads\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\johny\Downloads\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.dll
+C:\Users\johny\Downloads\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\johny\Downloads\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\johny\Downloads\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\johny\Downloads\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\johny\Downloads\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\johny\Downloads\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\johny\Downloads\WebSiteBanHang\WebSiteBanHang\bin\Newtonsoft.Json.dll
+C:\Users\johny\Downloads\WebSiteBanHang\WebSiteBanHang\bin\Owin.dll
+C:\Users\johny\Downloads\WebSiteBanHang\WebSiteBanHang\bin\PagedList.dll
+C:\Users\johny\Downloads\WebSiteBanHang\WebSiteBanHang\bin\PagedList.Mvc.dll
+C:\Users\johny\Downloads\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Helpers.dll
+C:\Users\johny\Downloads\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Mvc.dll
+C:\Users\johny\Downloads\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Optimization.dll
+C:\Users\johny\Downloads\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Razor.dll
+C:\Users\johny\Downloads\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.Deployment.dll
+C:\Users\johny\Downloads\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.dll
+C:\Users\johny\Downloads\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.Razor.dll
+C:\Users\johny\Downloads\WebSiteBanHang\WebSiteBanHang\bin\WebGrease.dll
+C:\Users\johny\Downloads\WebSiteBanHang\WebSiteBanHang\bin\Common.pdb
+C:\Users\johny\Downloads\WebSiteBanHang\WebSiteBanHang\bin\Antlr3.Runtime.pdb
+C:\Users\johny\Downloads\WebSiteBanHang\WebSiteBanHang\bin\CaptchaMvc.pdb
+C:\Users\johny\Downloads\WebSiteBanHang\WebSiteBanHang\bin\CaptchaMvc.xml
+C:\Users\johny\Downloads\WebSiteBanHang\WebSiteBanHang\bin\EntityFramework.xml
+C:\Users\johny\Downloads\WebSiteBanHang\WebSiteBanHang\bin\EntityFramework.SqlServer.xml
+C:\Users\johny\Downloads\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\johny\Downloads\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\johny\Downloads\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\johny\Downloads\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.xml
+C:\Users\johny\Downloads\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\johny\Downloads\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.xml
+C:\Users\johny\Downloads\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\johny\Downloads\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\johny\Downloads\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\johny\Downloads\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\johny\Downloads\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\johny\Downloads\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\johny\Downloads\WebSiteBanHang\WebSiteBanHang\bin\Newtonsoft.Json.xml
+C:\Users\johny\Downloads\WebSiteBanHang\WebSiteBanHang\bin\PagedList.xml
+C:\Users\johny\Downloads\WebSiteBanHang\WebSiteBanHang\bin\PagedList.Mvc.xml
+C:\Users\johny\Downloads\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Helpers.xml
+C:\Users\johny\Downloads\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Mvc.xml
+C:\Users\johny\Downloads\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Optimization.xml
+C:\Users\johny\Downloads\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Razor.xml
+C:\Users\johny\Downloads\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.xml
+C:\Users\johny\Downloads\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.Deployment.xml
+C:\Users\johny\Downloads\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.Razor.xml
+C:\Users\johny\Downloads\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.dll
+C:\Users\johny\Downloads\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.pdb
+C:\Users\johny\OneDrive\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Common.dll
+C:\Users\johny\OneDrive\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Common.pdb
+E:\Document\Đồ án\WebSiteBanHang\WebSiteBanHang\bin\WebSiteBanHang.dll.config
+E:\Document\Đồ án\WebSiteBanHang\WebSiteBanHang\bin\WebSiteBanHang.dll
+E:\Document\Đồ án\WebSiteBanHang\WebSiteBanHang\bin\WebSiteBanHang.pdb
+E:\Document\Đồ án\WebSiteBanHang\WebSiteBanHang\bin\Antlr3.Runtime.dll
+E:\Document\Đồ án\WebSiteBanHang\WebSiteBanHang\bin\CaptchaMvc.dll
+E:\Document\Đồ án\WebSiteBanHang\WebSiteBanHang\bin\Common.dll
+E:\Document\Đồ án\WebSiteBanHang\WebSiteBanHang\bin\EntityFramework.dll
+E:\Document\Đồ án\WebSiteBanHang\WebSiteBanHang\bin\EntityFramework.SqlServer.dll
+E:\Document\Đồ án\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Document\Đồ án\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Document\Đồ án\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Document\Đồ án\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.dll
+E:\Document\Đồ án\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Document\Đồ án\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Document\Đồ án\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.dll
+E:\Document\Đồ án\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Document\Đồ án\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Google.dll
+E:\Document\Đồ án\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Document\Đồ án\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Document\Đồ án\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Document\Đồ án\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Web.Infrastructure.dll
+E:\Document\Đồ án\WebSiteBanHang\WebSiteBanHang\bin\Newtonsoft.Json.dll
+E:\Document\Đồ án\WebSiteBanHang\WebSiteBanHang\bin\Owin.dll
+E:\Document\Đồ án\WebSiteBanHang\WebSiteBanHang\bin\PagedList.dll
+E:\Document\Đồ án\WebSiteBanHang\WebSiteBanHang\bin\PagedList.Mvc.dll
+E:\Document\Đồ án\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Helpers.dll
+E:\Document\Đồ án\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Mvc.dll
+E:\Document\Đồ án\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Optimization.dll
+E:\Document\Đồ án\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Razor.dll
+E:\Document\Đồ án\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.Deployment.dll
+E:\Document\Đồ án\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.dll
+E:\Document\Đồ án\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.Razor.dll
+E:\Document\Đồ án\WebSiteBanHang\WebSiteBanHang\bin\WebGrease.dll
+E:\Document\Đồ án\WebSiteBanHang\WebSiteBanHang\bin\Common.pdb
+E:\Document\Đồ án\WebSiteBanHang\WebSiteBanHang\bin\Antlr3.Runtime.pdb
+E:\Document\Đồ án\WebSiteBanHang\WebSiteBanHang\bin\CaptchaMvc.pdb
+E:\Document\Đồ án\WebSiteBanHang\WebSiteBanHang\bin\CaptchaMvc.xml
+E:\Document\Đồ án\WebSiteBanHang\WebSiteBanHang\bin\EntityFramework.xml
+E:\Document\Đồ án\WebSiteBanHang\WebSiteBanHang\bin\EntityFramework.SqlServer.xml
+E:\Document\Đồ án\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Document\Đồ án\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Document\Đồ án\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Document\Đồ án\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.xml
+E:\Document\Đồ án\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Document\Đồ án\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.xml
+E:\Document\Đồ án\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Document\Đồ án\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Document\Đồ án\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Google.xml
+E:\Document\Đồ án\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Document\Đồ án\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Document\Đồ án\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Document\Đồ án\WebSiteBanHang\WebSiteBanHang\bin\Newtonsoft.Json.xml
+E:\Document\Đồ án\WebSiteBanHang\WebSiteBanHang\bin\PagedList.xml
+E:\Document\Đồ án\WebSiteBanHang\WebSiteBanHang\bin\PagedList.Mvc.xml
+E:\Document\Đồ án\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Helpers.xml
+E:\Document\Đồ án\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Mvc.xml
+E:\Document\Đồ án\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Optimization.xml
+E:\Document\Đồ án\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Razor.xml
+E:\Document\Đồ án\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.xml
+E:\Document\Đồ án\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.Deployment.xml
+E:\Document\Đồ án\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.Razor.xml
+E:\Document\Đồ án\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.csprojResolveAssemblyReference.cache
+E:\Document\Đồ án\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.dll
+E:\Document\Đồ án\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.pdb
+C:\Users\fanmu\Downloads\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\WebSiteBanHang.dll.config
+C:\Users\fanmu\Downloads\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\WebSiteBanHang.dll
+C:\Users\fanmu\Downloads\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\WebSiteBanHang.pdb
+C:\Users\fanmu\Downloads\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Antlr3.Runtime.dll
+C:\Users\fanmu\Downloads\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\CaptchaMvc.dll
+C:\Users\fanmu\Downloads\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Common.dll
+C:\Users\fanmu\Downloads\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\EntityFramework.dll
+C:\Users\fanmu\Downloads\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\EntityFramework.SqlServer.dll
+C:\Users\fanmu\Downloads\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\fanmu\Downloads\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\fanmu\Downloads\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\fanmu\Downloads\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.dll
+C:\Users\fanmu\Downloads\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\fanmu\Downloads\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\fanmu\Downloads\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.dll
+C:\Users\fanmu\Downloads\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\fanmu\Downloads\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\fanmu\Downloads\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\fanmu\Downloads\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\fanmu\Downloads\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\fanmu\Downloads\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\fanmu\Downloads\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Newtonsoft.Json.dll
+C:\Users\fanmu\Downloads\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Owin.dll
+C:\Users\fanmu\Downloads\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\PagedList.dll
+C:\Users\fanmu\Downloads\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\PagedList.Mvc.dll
+C:\Users\fanmu\Downloads\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Helpers.dll
+C:\Users\fanmu\Downloads\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Mvc.dll
+C:\Users\fanmu\Downloads\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Optimization.dll
+C:\Users\fanmu\Downloads\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Razor.dll
+C:\Users\fanmu\Downloads\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.Deployment.dll
+C:\Users\fanmu\Downloads\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.dll
+C:\Users\fanmu\Downloads\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.Razor.dll
+C:\Users\fanmu\Downloads\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\WebGrease.dll
+C:\Users\fanmu\Downloads\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Common.pdb
+C:\Users\fanmu\Downloads\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Antlr3.Runtime.pdb
+C:\Users\fanmu\Downloads\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\CaptchaMvc.pdb
+C:\Users\fanmu\Downloads\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\CaptchaMvc.xml
+C:\Users\fanmu\Downloads\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\EntityFramework.xml
+C:\Users\fanmu\Downloads\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\EntityFramework.SqlServer.xml
+C:\Users\fanmu\Downloads\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\fanmu\Downloads\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\fanmu\Downloads\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\fanmu\Downloads\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.xml
+C:\Users\fanmu\Downloads\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\fanmu\Downloads\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.xml
+C:\Users\fanmu\Downloads\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\fanmu\Downloads\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\fanmu\Downloads\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\fanmu\Downloads\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\fanmu\Downloads\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\fanmu\Downloads\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\fanmu\Downloads\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Newtonsoft.Json.xml
+C:\Users\fanmu\Downloads\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\PagedList.xml
+C:\Users\fanmu\Downloads\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\PagedList.Mvc.xml
+C:\Users\fanmu\Downloads\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Helpers.xml
+C:\Users\fanmu\Downloads\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Mvc.xml
+C:\Users\fanmu\Downloads\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Optimization.xml
+C:\Users\fanmu\Downloads\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Razor.xml
+C:\Users\fanmu\Downloads\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.xml
+C:\Users\fanmu\Downloads\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.Deployment.xml
+C:\Users\fanmu\Downloads\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.Razor.xml
+C:\Users\fanmu\Downloads\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.csproj.AssemblyReference.cache
+C:\Users\fanmu\Downloads\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.csproj.CoreCompileInputs.cache
+C:\Users\fanmu\Downloads\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.csproj.CopyComplete
+C:\Users\fanmu\Downloads\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.dll
+C:\Users\fanmu\Downloads\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.pdb
+D:\web của thắng\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\WebSiteBanHang.dll.config
+D:\web của thắng\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\WebSiteBanHang.dll
+D:\web của thắng\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\WebSiteBanHang.pdb
+D:\web của thắng\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Antlr3.Runtime.dll
+D:\web của thắng\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\CaptchaMvc.dll
+D:\web của thắng\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Common.dll
+D:\web của thắng\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\EntityFramework.dll
+D:\web của thắng\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\EntityFramework.SqlServer.dll
+D:\web của thắng\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AspNet.Identity.Core.dll
+D:\web của thắng\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\web của thắng\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\web của thắng\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.dll
+D:\web của thắng\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\web của thắng\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Cookies.dll
+D:\web của thắng\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.dll
+D:\web của thắng\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Facebook.dll
+D:\web của thắng\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Google.dll
+D:\web của thắng\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\web của thắng\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.OAuth.dll
+D:\web của thắng\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Twitter.dll
+D:\web của thắng\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Web.Infrastructure.dll
+D:\web của thắng\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Newtonsoft.Json.dll
+D:\web của thắng\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Owin.dll
+D:\web của thắng\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\PagedList.dll
+D:\web của thắng\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\PagedList.Mvc.dll
+D:\web của thắng\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Helpers.dll
+D:\web của thắng\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Mvc.dll
+D:\web của thắng\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Optimization.dll
+D:\web của thắng\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Razor.dll
+D:\web của thắng\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.Deployment.dll
+D:\web của thắng\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.dll
+D:\web của thắng\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.Razor.dll
+D:\web của thắng\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\WebGrease.dll
+D:\web của thắng\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Common.pdb
+D:\web của thắng\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Antlr3.Runtime.pdb
+D:\web của thắng\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\CaptchaMvc.pdb
+D:\web của thắng\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\CaptchaMvc.xml
+D:\web của thắng\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\EntityFramework.xml
+D:\web của thắng\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\EntityFramework.SqlServer.xml
+D:\web của thắng\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AspNet.Identity.Core.xml
+D:\web của thắng\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\web của thắng\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\web của thắng\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.xml
+D:\web của thắng\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\web của thắng\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.xml
+D:\web của thắng\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Cookies.xml
+D:\web của thắng\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Facebook.xml
+D:\web của thắng\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Google.xml
+D:\web của thắng\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\web của thắng\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.OAuth.xml
+D:\web của thắng\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Twitter.xml
+D:\web của thắng\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Newtonsoft.Json.xml
+D:\web của thắng\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\PagedList.xml
+D:\web của thắng\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\PagedList.Mvc.xml
+D:\web của thắng\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Helpers.xml
+D:\web của thắng\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Mvc.xml
+D:\web của thắng\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Optimization.xml
+D:\web của thắng\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Razor.xml
+D:\web của thắng\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.xml
+D:\web của thắng\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.Deployment.xml
+D:\web của thắng\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.Razor.xml
+D:\web của thắng\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.csproj.AssemblyReference.cache
+D:\web của thắng\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.csproj.CoreCompileInputs.cache
+D:\web của thắng\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.csproj.CopyComplete
+D:\web của thắng\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.dll
+D:\web của thắng\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.pdb

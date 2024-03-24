@@ -1,0 +1,21 @@
+C:\Users\johny\Downloads\WebSiteBanHang\Common\bin\Debug\Common.dll
+C:\Users\johny\Downloads\WebSiteBanHang\Common\bin\Debug\Common.pdb
+C:\Users\johny\Downloads\WebSiteBanHang\Common\obj\Debug\Common.dll
+C:\Users\johny\Downloads\WebSiteBanHang\Common\obj\Debug\Common.pdb
+E:\Document\Đồ án\WebSiteBanHang\Common\bin\Debug\Common.dll
+E:\Document\Đồ án\WebSiteBanHang\Common\bin\Debug\Common.pdb
+E:\Document\Đồ án\WebSiteBanHang\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+E:\Document\Đồ án\WebSiteBanHang\Common\obj\Debug\Common.dll
+E:\Document\Đồ án\WebSiteBanHang\Common\obj\Debug\Common.pdb
+C:\Users\fanmu\Downloads\WebSiteBanHang\WebSiteBanHang\Common\bin\Debug\Common.dll
+C:\Users\fanmu\Downloads\WebSiteBanHang\WebSiteBanHang\Common\bin\Debug\Common.pdb
+C:\Users\fanmu\Downloads\WebSiteBanHang\WebSiteBanHang\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\fanmu\Downloads\WebSiteBanHang\WebSiteBanHang\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\fanmu\Downloads\WebSiteBanHang\WebSiteBanHang\Common\obj\Debug\Common.dll
+C:\Users\fanmu\Downloads\WebSiteBanHang\WebSiteBanHang\Common\obj\Debug\Common.pdb
+D:\web của thắng\WebSiteBanHang\WebSiteBanHang\Common\bin\Debug\Common.dll
+D:\web của thắng\WebSiteBanHang\WebSiteBanHang\Common\bin\Debug\Common.pdb
+D:\web của thắng\WebSiteBanHang\WebSiteBanHang\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+D:\web của thắng\WebSiteBanHang\WebSiteBanHang\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\web của thắng\WebSiteBanHang\WebSiteBanHang\Common\obj\Debug\Common.dll
+D:\web của thắng\WebSiteBanHang\WebSiteBanHang\Common\obj\Debug\Common.pdb
